@@ -1,4 +1,4 @@
-print("입력하기")
+print("Enter")
 print("[       ", end="")
 input_value = input("]\b\b\b\b\b\b\b\b")
 
